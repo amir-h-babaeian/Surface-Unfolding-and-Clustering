@@ -3,9 +3,10 @@ Babaeian, A., Babaee, M., Bayestehtashk, A., & Bandarabadi, M. (2015). Nonlinear
 
 
 Please acknowledge and cite the related papers.
-
+```
 *Amir Babaeian*
 *Email: ababaeian@ucsd.edu*
+```
 
 Thanks to Professor Ery Arias-Castro for his advises during the project and  my Coauthors: Mohammadreza Babaee, Alireza Bayestehtashk, Mojtaba Bandarabadi, Amin Ghadesi.
 
