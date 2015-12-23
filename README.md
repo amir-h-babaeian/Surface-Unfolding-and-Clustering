@@ -3,9 +3,10 @@ Constrained Shortest-Path Distances with Applications to Surface Unfolding and C
 
 Please acknowledge and cite the related papers.
 
->Amir Babaeian
->Email: ababaeian@ucsd.edu
-
+`
+> Amir Babaeian
+> Email: ababaeian@ucsd.edu
+`
 
 Thanks to Professor Ery Arias-Castro for his advises during the project and  my Coauthors: Mohammadreza Babaee, Alireza Bayestehtashk, Mojtaba Bandarabadi, Amin Ghadesi.
 
