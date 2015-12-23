@@ -36,6 +36,13 @@ labels = Path_Based_Clustering( D, 60, 10,15,2);
 | angle_constraint     |  Angel constraint used in shortest path algorithm    |
 | no_clusters   |  Number of clusters    |
 
++---+------------+-------------+
+|   |     A      |      B      |
++---+------------+-------------+
+| 1 | Type       | MySQL       |
+| 2 | Header     | Spreadsheet |
+| 3 | Auto Align | On          |
++---+------------+-------------+
 ```
 Description of input and output parameters:
 
