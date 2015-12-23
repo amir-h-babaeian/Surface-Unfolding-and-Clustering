@@ -1,6 +1,5 @@
 Source code for papers titled:
-Babaeian, A., Babaee, M., Bayestehtashk, A., & Bandarabadi, M. (2015). Nonlinear subspace clustering using curvature constrained distances. Pattern Recognition Letters, 68, 118-125.
-
+Constrained Shortest-Path Distances with Applications to Surface Unfolding and Clustering Ery Arias-Castro1, Amir Babaeian1, and Thibaut Le Gouic2 1University of California, San Diego, USA 2E ?cole Centrale de Marseille, France Ery Arias-Castro1, Amir Babaeian1, and Thibaut Le Gouic2
 
 Please acknowledge and cite the related papers.
 ```
@@ -37,13 +36,6 @@ Description of input and output parameters:
 %        no_clusters   ----        Number of clusters
 %        On Exit:
 %        labels     ----           Labels that computed using result of clustering algorithm
-
-%  Amir Babaeian.
-%  Department of Mathematics
-%  UC San Diego
-%  USA
-%
-% May 05 2015: Original  version.
 ```
 
 
