@@ -4,18 +4,19 @@ Babaeian, A., Babaee, M., Bayestehtashk, A., & Bandarabadi, M. (2015). Nonlinear
 
 Please acknowledge and cite the related papers.
 
-Amir Babaeian
-Email: ababaeian@ucsd.edu
+*Amir Babaeian*
+*Email: ababaeian@ucsd.edu*
+
 Thanks to Professor Ery Arias-Castro for his advises during the project and  my Coauthors: Mohammadreza Babaee, Alireza Bayestehtashk, Mojtaba Bandarabadi, Amin Ghadesi.
 
 
-Related articles:
+##Related articles:
 ANGLE CONSTRAINED PATH FOR CLUSTERING OF MULTIPLE MANIFOLDS, International conference on image processing(ICIP 2015)
 Babaeian, A., Bayestehtashk, A., & Bandarabadi, M. (2015). Multiple Manifold Clustering Using Curvature Constrained Path. PloS one, 10(9), e0137986.
 
 Journal link: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0137986
 
-How to use the code:
+##How to use the code:
 
 In order to use the code you should run demo file as follow:
 Example:
