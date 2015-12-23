@@ -26,7 +26,7 @@ labels = Path_Based_Clustering( D, 60, 10,15,2);
 
 % Labels are the output of clustering algorithm.
 
-
+```
 Description of input and output parameters:
 %        Run path based clustering algorithm
 %        ON Entry:
@@ -44,6 +44,6 @@ Description of input and output parameters:
 %  USA
 %
 % May 05 2015: Original  version.
-
+```
 
 
