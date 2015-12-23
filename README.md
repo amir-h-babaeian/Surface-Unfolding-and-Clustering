@@ -15,8 +15,8 @@ Thanks to Professor Ery Arias-Castro for his advises during the project and  my 
 ANGLE CONSTRAINED PATH FOR CLUSTERING OF MULTIPLE MANIFOLDS, International conference on image processing(ICIP 2015)
 Babaeian, A., Bayestehtashk, A., & Bandarabadi, M. (2015). Multiple Manifold Clustering Using Curvature Constrained Path. PloS one, 10(9), e0137986.
 
-![alt text](http://i68.tinypic.com/2zylg5i.png "Logo Title Text 1")
 [Journal link] (http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0137986)
+![alt text](http://i68.tinypic.com/2zylg5i.png "Journal Logo")
 
 ##How to use the code:
 
