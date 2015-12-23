@@ -26,7 +26,8 @@ labels = Path_Based_Clustering( D, 60, 10,15,2);
 % Labels are the output of clustering algorithm.
 
 ```
-Description of input and output parameters:
+##Description of input and output parameters:
+
 %        Run path based clustering algorithm
 %        ON Entry:
 %        data     ----             n*p data(N should be the number of data points and p is the number of variables)
