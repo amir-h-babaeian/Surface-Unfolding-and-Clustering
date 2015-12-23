@@ -1,5 +1,9 @@
 ##Source code for papers titled:
-Constrained Shortest-Path Distances with Applications to Surface Unfolding and Clustering Ery Arias-Castro1, Amir Babaeian1, and Thibaut Le Gouic2 1University of California, San Diego, USA 2E ?cole Centrale de Marseille, France Ery Arias-Castro1, Amir Babaeian1, and Thibaut Le Gouic2
+**Constrained Shortest-Path Distances with Applications to Surface Unfolding and Clustering**
+-Ery Arias-Castro 
+-Amir Babaeian
+-Thibaut Le Gouic
+
 
 Please acknowledge and cite the related papers.
 
