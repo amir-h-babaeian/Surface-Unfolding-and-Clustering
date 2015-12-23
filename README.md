@@ -27,6 +27,15 @@ labels = Path_Based_Clustering( D, 60, 10,15,2);
 
 % Labels are the output of clustering algorithm.
 ```
+
+| ON Entry | Description          |
+| ------------- | ----------- |
+| data      | n*p data(N should be the number of data points and p is the number of variables)|
+| k     |  Radius of epsilon graph or no neighbours    |
+| no_landmarks     |  Number of landmarks    |
+| angle_constraint     |  Angel constraint used in shortest path algorithm    |
+| no_clusters   |  Number of clusters    |
+
 ```
 Description of input and output parameters:
 
