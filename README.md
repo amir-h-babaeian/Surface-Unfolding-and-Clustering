@@ -4,9 +4,6 @@
 + Amir Babaeian
 + Thibaut Le Gouic
 
-
-Please acknowledge and cite the related papers.
-
 ```
  Amir Babaeian
  Email: ababaeian@ucsd.edu
@@ -16,7 +13,7 @@ Thanks to Professor Ery Arias-Castro for his advises during the project.
 
 ##How to use the code:
 
-In order to use the code you should run demo file as follow:
+In order to use the code you should run the demo file as follow:
 
 Example:
 ```matlab
