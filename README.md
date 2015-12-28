@@ -14,12 +14,6 @@ Please acknowledge and cite the related papers.
 
 Thanks to Professor Ery Arias-Castro for his advises during the project.
 
-
-##Related articles:
-
-![alt text](http://i68.tinypic.com/2zylg5i.png "Journal Logo")
-[Journal link] (http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0137986)
-
 ##How to use the code:
 
 In order to use the code you should run demo file as follow:
